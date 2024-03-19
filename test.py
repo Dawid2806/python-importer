@@ -1,7 +1,7 @@
 import json
 import csv
 
-def transform_and_export_orders(old_orders_file, new_orders_csv_file, images_csv_file, new_orders_sql_file, images_sql_file, base_image_url):
+def transform_and_export_orders(new_orders_file,old_orders_file, new_orders_csv_file, images_csv_file, new_orders_sql_file, images_sql_file, base_image_url):
     with open(old_orders_file, 'r', encoding='utf-8') as file:
         old_orders_data = json.load(file)
 
@@ -64,22 +64,29 @@ def transform_and_export_orders(old_orders_file, new_orders_csv_file, images_csv
     def escape_single_quotes(value):
         return str(value).replace("'", "''")
 
-    with open(new_orders_sql_file, 'w', encoding='utf-8') as file:
-        for order in new_orders:
-            columns = ', '.join(order.keys())
-            values = ', '.join([f"'{escape_single_quotes(value)}'" for value in order.values()])
-            sql = f"INSERT INTO public_python_order ({columns}) VALUES ({values});\n"
-            file.write(sql)
+    # with open(new_orders_sql_file, 'w', encoding='utf-8') as file:
+    #     for order in new_orders:
+    #         columns = ', '.join(order.keys())
+    #         values = ', '.join([f"'{escape_single_quotes(value)}'" for value in order.values()])
+    #         sql = f"INSERT INTO public_python_order ({columns}) VALUES ({values});\n"
+    #         file.write(sql)
 
     with open(images_sql_file, 'w', encoding='utf-8') as file:
         for image in order_images:
             columns = ', '.join(image.keys())
             values = ', '.join([f"'{escape_single_quotes(value)}'" for value in image.values()])
-            sql = f"INSERT INTO order_images ({columns}) VALUES ({values});\n"
+            sql = f"INSERT INTO public_python_orderimages ({columns}) VALUES ({values});\n"
             file.write(sql)
+
+
+
+        # Zapis nowych danych zamówień do pliku
+    with open(new_orders_file, 'w', encoding='utf-8') as file:
+        json.dump(new_orders, file, ensure_ascii=False, indent=4)
 
 # Przykładowe wywołanie funkcji
 transform_and_export_orders(
+'orders-new.json',
     'orderss.json',
     'orders-new.csv',
     'order-images.csv',
