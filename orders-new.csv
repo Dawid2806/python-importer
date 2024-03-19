@@ -1,0 +1,360 @@
+id,phone,size,color,brand,orderNumber,created_at,service_id,due_date,comment,additional_service_id,reasonForDelay,shipping_number,order_type_id,order_status_id
+1,+48533120694,40.5,Beż,nike,5014,2024-01-20,6,2024-02-01,Reklamacja. Buty  sa z żółknięte. Byly W kolorze sznurówek. PILNE,1,,,1,5
+2,+48604591261,45.5,niebieski,nike,5255,2024-03-01,2,2024-03-13,,1,,,1,5
+3,+48661474350,38,Camel,Ugg,5005,2024-01-18,,2024-01-30,,1,Przedłużony proces czyszczenia potrzebny aby osiągnąć prawidłowy efekt. ,,1,5
+4,+48733378399,38,czarne,Jonak,5048,2024-01-27,7,2024-02-15,"Renowacja, głównie czubki odmalować ",1,,,1,5
+5,+48603835723,42.5,czarne,Vans,5364,2024-03-13,2,2024-03-25,,1,,,1,2
+6,+48735975760,44,Szary,NB,5356,2024-03-12,2,2024-03-22,"Online-2408
+WAW680M
+",1,,,2,2
+7,+48533170647,43,czarne,nike,5016,2024-01-20,1,2024-01-31,Online 2353,1,,,2,5
+8,+48793116772,46,czarne,Salomon,5008,2024-01-18,,2024-01-25,,1,,,1,5
+9,+48533170647,44,czarne,Reabok,5015,2024-01-20,1,2024-01-31,"Online 2353
+",1,,2353,2,1
+10,+537013013,45,białe,Adidas ,5013,2024-01-19,1,2024-02-01,,1,,,1,3
+11,+48501250883,40,Szary,Ecco,5359,2024-03-13,2,2024-03-19,Express na 19.03. 20.03 klientka wylatuje rano. Premium wash,1,Express,,1,1
+12,+48511021377,36,białe,Fila,5024,2024-01-23,1,2024-02-01,Online 2341 2/2,1,,,2,8
+13,+48511580425,49,białe,nike,5020,2024-01-22,1,2024-01-29,Lata + classic,1,,,1,7
+14,+48601353192,41,Magenta,Converse ,5009,2024-01-19,2,2024-01-26,"Wysyłka opłacona. InPost. 
+KGN01M. Korczagi Nowe
+Grażyna Czekaj. 601 353 192",1,,,1,7
+15,+48607207065,8,Niebieski,Tod’s,5030,2024-01-25,8,2024-02-13,"Renowacja pełna obuwia, odmalowanie elementów zamszowych, kolor sznórówek",1,Potrzeba więcej czasu,,1,5
+16,+48883757705,39,Brazowe,UGG,5146,2024-02-13,5,2024-02-27,Online-2370,1,,,2,8
+17,+48502622170,38,Kremowy,UGG,5019,2024-01-22,5,2024-01-25,Express czwartek,1,,,1,5
+18,+48601353192,40,Niebieski,nike,5011,2024-01-19,2,2024-01-30,"Wysyłka opłacona. InPost. 
+KGN01M. Korczagi Nowe
+Grażyna Czekaj. 601 353 192",1,Przy podeszwie materiał spalony plus zafarbowanie na czerwono w jednym miejscu.,,1,5
+19,+48601229282,38,Kremowe,Hego’s,5343,2024-03-11,7,2024-04-01,"Renowacja Mini
+Tylko czubki ",1,,,1,2
+20,+48502555914,1,Brazowy,Lloyd,5360,2024-03-13,1,2024-03-22,"Szewc nowe fleki
+Buty TYLKO do pastowania/woskowania",1,,,1,1
+21,+48666692802,39,czarne,Dr. Martens,5027,2024-01-24,2,2024-02-05,,1,,,1,5
+22,+48501283175,39,Kremowy,Kazar,5032,2024-01-25,1,2024-02-05,"WAW293M 
+Magdalena.woronkiewicz@gmail.com
+501 283 175
+Magdalena Woronkiewicz 
+InPost wysyłka ",1,,,1,2
+23,+48781089114,42.5,białe,nike,5059,2024-01-30,6,2024-02-13,"Online 2319
+2/2
+ Proszę zamienić na 19.02",1,,,1,7
+24,+48781089114,42,białe,nike,5058,2024-01-30,6,2024-02-13,"Online 2319 
+1/2
+Proszę zamienić na 19.02",1,,,2,8
+25,+48572660096,1,Niebieski,Birkenstock,5375,2024-03-15,4,2024-03-25,,1,,,1,1
+26,+48502308726,1,białe,LV,5377,2024-03-15,1,2024-03-27,,1,,,1,1
+27,+48519678691,44,Ciemnozielony,Strauss,5054,2024-01-29,2,2024-02-07,Paczkomat GZC01A,1,,,1,5
+28,+48601059194,39,Brązowy,Guess,5047,2024-01-27,6,2024-02-15,"Proszę odświeżyć kolor, wyczyścić z kleju, postarać się ogarnąć wewnętrzną poszewkę(sypie się) i ogarnąć ubytki ",1,,,1,5
+29,+48501791069,45,czarne,Lindeberg,5056,2024-01-30,6,2024-02-16,Czyszczenie i renowacja ,1,,,1,5
+30,+48519678691,44,czarne,Ecco,5053,2024-01-29,2,2024-02-07,Paczkomat GZC01A 2 pary,1,,519678691,1,5
+31,+48510273833,1,białe,Ryłko,5044,2024-01-26,6,2024-02-13,"Online 2355
+1/3",1,Potrzeba więcej czasu,,1,5
+32,+48798417190,38,czarne,Ck,5335,2024-03-09,6,2024-03-29,"Online 2404
+1/2",1,,2404,1,2
+33,+48501528342,35,białe,LV,5206,2024-02-26,,2024-03-01,"Online 2392
+Tylko Unyellowing ",1,,,2,1
+34,+48502278248,1,białe,nike,5041,2024-01-26,2,2024-02-05,"Buty nie zostały wyczyszczone w środku i od spodu, mimo ze czyszczenie miało być premium. Skończyły się prawidła na powiślu, proszę dodać ",1,,,1,5
+35,+48501446869,1,Bordowy,187,5043,2024-01-26,6,2024-02-09,"Reklamacja, widoczne braki
+WAW255M
+Yarekrychlik@gmail.com
+Jarosław Rychlik ",1,,,1,5
+36,+48601729201,41,czarne,DSQUARED 2,5075,2024-02-01,3,2024-02-12,,1,,,1,5
+37,+48533928781,39,Brąz,Vagabond,5040,2024-01-26,1,2024-02-05,"Buty nowe, wypastować i ozonowac. 50 złotych opłacone ",1,,,1,5
+38,+48601353192,40.5,Kolorowy,nike,5010,2024-01-19,2,2024-02-01,"Wysyłka opłacona. InPost. 
+KGN01M. Korczagi Nowe
+Grażyna Czekaj. 601 353 192",1,Mocno zabrudzony but z głębokimi żółtymi plamami ,,1,5
+39,+48501732217,1,Braz,Micmacbags,5029,2024-01-25,1,2024-02-05,Czyszczenie Torebki PLUS,1,,,1,5
+40,+48515400633,36,Szary,UGG,5022,2024-01-23,5,2024-02-01,,1,Ciężkie do zdjęcia plamy z soli na czubkach ,,1,5
+41,+48799037242,1,brazowe,No name,5306,2024-03-06,6,2024-03-26,"Szewc klejenie
+Buty w środku były jaśniejsze o wiele 
+Klientowi zależy na odzyskaniu koloru w środku jak i na zewnątrz 
+Skóra na zewnątrz była w podobnym kolorze jak sznurówki 
+Elementy z nubuku też odzyskać kolor",1,,,1,2
+42,+48531223416,42.5,białe,nike,5087,2024-02-02,6,2024-02-20,"Reklamacja, odmalować, są rysy. Wyczyścić w środku. Priorytet",1,,,1,5
+43,+48604571947,44,Biało/Czarne,nike,5376,2024-03-15,2,2024-03-26,,1,,,1,1
+44,+48602752936,45,Czerwony,nike,5081,2024-02-01,6,2024-02-27,Renowacja+unyellowing ,1,Wymagają więcej pracy,,1,5
+45,+48517914869,38,białe,New Balance,5243,2024-02-29,2,2024-03-12,,1,,,1,5
+46,+48793230121,37,białe,valentino,5091,2024-02-03,1,2024-02-12,"dopłata 100 PLN 2359 online 1/2
+Express ",1,,,2,8
+47,+48668801473,1,czarne,Laurent,5278,2024-03-02,8,2024-03-21,"Odnowic kolor, pomalować szycia 
+Doplata luxus 100 zlotych",1,,,1,1
+48,+48793230121,37,białe,Balenciaga,5092,2024-02-03,2,2024-02-14,"Online 2359
+2//2 do zapłacenia 100 złotych ",1,,,2,8
+49,+48605303781,38,białe,Adidas,5362,2024-03-13,2,2024-03-22,,1,,,1,2
+50,+48605161017,36,białe,Adidas,5222,2024-02-27,2,2024-03-08,,1,,,1,5
+51,+791781920,38,Brazowe,Lasocki,5062,2024-01-30,1,2024-02-08,,1,,,1,5
+52,+48721841319,38.5,czarne,nike,5200,2024-02-26,2,2024-03-01,EXPRESS,1,,,1,5
+53,+48791703711,40,białe,Adidas,5152,2024-02-14,2,2024-02-29,"Online 2372
+Paczkomat WAW42AP",1,,,2,8
+54,+48721841319,43.5,białe,Karhu,5201,2024-02-26,2,2024-03-07,,1,,,1,5
+55,+48664053937,46.5,granatowy ,New balance,5099,2024-02-06,6,2024-02-23,Renowacja i czyszczenie. Odnowa kolora,1,,,1,5
+56,+48606850288,39,Beżowe ,Break&Walk,5108,2024-02-07,1,2024-02-16,Zwrócić uwagę na przyciemnienia w górnej części butów ,1,,,1,5
+57,+48537013013,41,czarne,Martens,5282,2024-03-04,,2024-03-12,"Kicia nasikała, ozonowanie",1,Ciężki do usunięcia zapach ,,1,2
+58,+48726616738,40,brazowe,UGG,5104,2024-02-07,5,2024-02-20,Online 2363,1,Głębokie zanieczyszczenia ,,2,5
+59,+48530943094,36.5,szare,NB,5175,2024-02-22,6,2024-03-05,Wash,1,,,1,7
+60,+48501015155,46.5,Szaro-kremowe,NB,5211,2024-02-27,6,2024-03-15,"Czyszczenie i malowanie. Limitowane buty, możecie zobaczyć jak wyglądają na necie.
+ Z tylu na zewnętrznych stronach na gumie jest znak, który fajnie by było odwzorować
+",1,,,1,5
+61,+48504138307,41,Pomaranczowy,New balance,5068,2024-01-31,1,2024-02-09,Czyszczenie,1,,,1,5
+62,+48794698054,38,Szary,Adidas,5158,2024-02-15,1,2024-03-01,"Online 2376
+Paczkomat WAW697M
+2/2 Pary",1,,,2,8
+63,+48502308726,44,Kolorowe,Disquared,5378,2024-03-15,3,2024-03-28,+napawy szewskie,1,,,1,1
+64,+884880998,1,białe,Lv,5277,2024-03-02,8,2024-03-21,Renowacja luxus,1,,,1,5
+65,+48501230801,46,Zielone,nike,5118,2024-02-10,1,2024-02-21,,1,,,1,5
+66,+48505234421,38,Biało Niebieskie,Dior,5123,2024-02-10,3,2024-02-21,,1,,,1,5
+67,+48501230801,46,Jasno zielone,nike,5119,2024-02-10,1,2024-02-21,,1,,,1,5
+68,+48663319872,38,białe,Veja,5169,2024-02-20,1,2024-03-01,Online 2380,1,,,2,8
+69,+4860397262,44.5,białe,nike,5130,2024-02-12,7,2024-02-29,"Tylko odmalować tyły na biało 
+",1,,,1,5
+70,+48695343934,43,białe,Veja,5379,2024-03-15,2,2024-03-26,Online 2422,1,,,2,1
+71,+537013013,44.5,Szare,Ugg,5139,2024-02-13,1,2024-02-27,,1,,,1,5
+72,+48607589008,38,szary,Adidas,5387,2024-03-16,2,2024-03-27,"premium wash, ciężki zawodnik ;p",1,,,1,1
+73,+48795799499,37,białe,Sophia Webster,5301,2024-03-05,2,2024-03-15,,1,,,1,5
+74,+48502555914,1,Brazowy,Birkenstock,5361,2024-03-13,4,2024-03-22,,1,,,1,2
+75,+48501866827,37.5,Szare/blady róż ,New Balance,5078,2024-02-01,1,2024-02-13,Szczególnie material przy podeszwach,1,Głębokie zanieczyszczenia ,,1,5
+76,+48793349864,42,czarne,Ecco,5154,2024-02-14,6,2024-03-04,Jak da radę najpóźniej na 1 marca to super klient wyjeżdża 2 marca,1,,,1,5
+77,+48530943094,36.5,szare,NB,5175,2024-02-22,6,2024-03-05,Wash,1,,,1,7
+78,+48530943094,36.5,szare,NB,5175,2024-02-22,1,2024-03-05,,1,,,1,7
+79,+48664256698,40.5,czarne,nike,5151,2024-02-14,6,2024-03-04,"Sporo rys i zadrapań
+Klientka nie chciała zapiętek ",1,,,1,5
+80,+48695737714,38,czarne,Adidas,5163,2024-02-17,6,2024-03-06,Remont przebarwień ,1,,,1,5
+81,+48533928781,44.5,białe,nike,5006,2024-01-18,6,2024-01-25,,1,,,1,7
+82,+48794698054,38.5,białe,New Balance,5157,2024-02-15,6,2024-03-05,"Online 2376
+Paczkomat WAW697M
+1/2 Pary",1,,,2,8
+83,+48660667729,38,Brazowe,UGG,5299,2024-03-05,5,2024-03-14,"Online-2398
+WAW129AP",1,,,2,8
+84,+48502970978,40.5,białe,nike,5365,2024-03-13,2,2024-03-25,"Online-2418
+WAW62N
+Sznurówki w bucie ",1,,,2,2
+85,+48501230529,1,Łososiowy,Bag,5162,2024-02-16,6,2024-03-05,Renowacja i czyszczenie torby. Skończyć jeszcze w lutym. Próba czyszczenia sodą,1,,,1,2
+86,+48603975050,1,białe,.,5034,2024-01-26,1,2024-02-08,Wyczyścić w środku ,1,Zżółknięcia i głębokie zabrudzenia ,,1,7
+87,+48608519355,43,Kolorowe,puma,5160,2024-02-16,6,2024-02-29,Klejenie szewc,1,,,1,5
+88,+48601356463,40,białe,Ted Baker,5368,2024-03-14,6,2024-04-03,Zapietki u szewca,1,,,1,1
+89,+48505234421,44,Szare,nike,5122,2024-02-10,1,2024-02-22,,1,,,1,5
+90,+48606497222,39,czarne,Marc jacobs ,5349,2024-03-11,2,2024-03-20,"Online 2414
+Zwrócić uwagę na sznurowanie ",1,,,2,2
+91,+48605303781,38,Bordowy,Adidas,5363,2024-03-13,2,2024-03-22,,1,,,1,2
+92,+48502627295,1,Pomarańczowy ,Citybag,5214,2024-02-27,6,2024-03-15,"Pełna renowacja torebki 
+Odmalować,wyczyścić ",1,,,1,2
+93,+48600200045,40.5,czarne,Jimmy Choo,5170,2024-02-21,8,2024-03-11,"Szczegolnie zadarcia przy noskach 
+Ogolnie full usługa zrobić picuś glancus ",1,,,1,5
+94,+48661980099,38,Szary,Scarpa,5369,2024-03-14,1,2024-03-25,Błotoooooo wszędzie ,1,,,1,1
+95,+48509587269,44,białe,nike,5133,2024-02-12,2,2024-02-27,,1,,,1,5
+96,+48605275263,38,Szary,Vero Cuoio,5325,2024-03-08,1,2024-03-21,Nowe fleki u szewca,1,,,1,2
+97,+48571281189,42.5,czarne,HH,5367,2024-03-13,2,2024-03-25,,1,,,1,2
+98,+48501283175,39,Brązowy,Domeno,5177,2024-02-22,1,2024-03-06,"Proszę wyczyścić też w środku.
+Wysyłka paczkomat
+Magdalena.woronkiewicz@gmail.com
+WAW293M
+501 283 175 ",1,,,1,5
+99,+48517967166,1,białe,Pinko,5180,2024-02-22,1,2024-03-06,"Bag basic wash 
+online 2386",1,,,2,2
+100,+48884000515,43,Brązowe,Lacoste,5181,2024-02-22,2,2024-03-07,Online 2388 premium wash,1,Głębokie zabrudzenia ,,1,5
+101,+48668155655,39,Fiolet,Adidas,5357,2024-03-13,1,2024-03-22,,1,,,1,2
+102,+48609467444,41,białe,nike,5370,2024-03-14,1,2024-03-25,,1,,,1,1
+103,+48571494412,40,Szare,Adidas,5247,2024-02-29,2,2024-03-14,Błoto wszędzie błoto ,1,Głębokie zabrudzenia ,,1,5
+104,+48577029001,39,ciemno zielone ,No name,5309,2024-03-06,,2024-03-14,ozowanie podstawowe za 49zl,1,,,1,5
+105,+48608519355,43,Kolorwe,puma,5381,2024-03-16,1,2024-03-27,"Reklamacja Toe Box
++Zapietek i klejenie",1,,,1,1
+106,+48728529094,39.5,Bezowy,Jack Wolfskin,5192,2024-02-24,1,2024-03-06,Online 2390,1,,,2,5
+107,+48512824100,38,Beż,.,5184,2024-02-23,1,2024-03-06,Czyszczenie i impregnacja ,1,,,1,5
+108,+48608388654,1,białe,Isabel Marant,5388,2024-03-18,3,2024-03-27,Czyszczenie LUXUS PREMIUM,1,,,1,1
+109,+48797801047,39,Brązowe,AllSaints,5195,2024-02-26,2,2024-03-12,Plamy na prawym bucie od oleju słonecznikowego ,1,Głęboka plama potrzebujemy więcej czasu,,1,5
+110,+48888438000,43,Brazowy,5.11,5371,2024-03-14,2,2024-03-25,,1,,,1,1
+111,+48517965764,1,brązowy,Adidas,5258,2024-03-01,1,2024-03-14,"+zapietek 
+Wysyłka InPost
+Krochmalna 61
+WAW522M krochmalna 61
+Nataliaseledtsova@gmail.com
+1/2",1,,,1,5
+112,+48515122301,43,czarne,Balenciaga,5168,2024-02-20,8,2024-03-11,"Zadrapania na podeszwach były oryginalnie 
+Tak samo niektóre zadrapania przy czubie buta ",1,,,1,5
+113,+48501772870,42,Kremowy,Converse,5274,2024-03-02,2,2024-03-14,,1,Głębokie zabrudzenia ,,1,5
+114,+48731551004,46,czarne,nike,5279,2024-03-04,2,2024-03-13,,1,,,1,5
+115,+48573993393,1,białe,Golden Goose,5207,2024-02-26,1,2024-03-07,Online 2382,1,,,2,8
+116,+48798439343,1,białe,Cavalli,5203,2024-02-26,3,2024-03-12,"Dopłata 100zl !!!
+Plamy od piwa ;)",1,Głębokie zanieczyszczenia ,,1,5
+117,+48691650502,42,czarne,Aldo,5240,2024-02-29,,2024-03-08,Ozonowanie plus z myciem wkładek,1,,,1,5
+118,+48795001200,45,białe,adidas,5256,2024-03-01,2,2024-03-19,"Nowe sznurówki w zestawie, proszę o założenie ",1,Głębokie zabrudzenia ,,1,2
+119,+48519489369,38,białe,Adidas,5239,2024-02-29,1,2024-03-12,"Online-2396 WAW215AP
+Buty nowe noszone raptem 10dni
+Usunąć czarne plamy na spoiwach materiału ",1,,,2,5
+120,+48739002908,39,Szary,nike,5173,2024-02-21,2,2024-03-05,Online-2378,1,Głębokie zabrudzenia ,,2,8
+121,+48534977033,38,Brazowe,UGG,5237,2024-02-29,5,2024-03-07,"Plama od olejku do brody
+Online-2394
+EXPRESS
+WEG01A",1,Głębokie zabrudzenia,2394,2,5
+122,+48726616738,40,Brazowe,UGG,5236,2024-02-29,5,2024-03-12,"Reklamacja do SW-5104
+Cytuję „pogniecione i inny kolor w okolicy pięt”
+Kaminskaa.karolina@wp.pl
+Online 2363
+ILA05M",1,,2363,1,2
+123,+48517914869,38,Szary,New Balance,5242,2024-02-29,2,2024-03-12,,1,,,1,5
+124,+48513446095,1,Niebieskie,nike,5246,2024-02-29,6,2024-03-21,"Pełna Renowacja Jordan
+Pudełko na zapleczu",1,Opóźnienie ze względu na dostawę farby zza granicy ,,1,2
+125,+48602661019,40,Ciemno kremowe ,Ionna Kourbela,5250,2024-03-01,6,2024-03-18,"Szewc klejenie
+Pełna renowacja 
+",1,,,1,5
+126,+48511021377,36,białe,Fila,5023,2024-01-23,1,2024-02-01,"2341 online 1/2
+Przesunąć na 01.02. Klientka domówiła zapietki ",1,Domówione zapiętki ,,2,8
+127,+48452901933,45,czarne,Adidas,5159,2024-02-15,2,2024-03-05,"Lewy but plamy od piwa :)
+",1,Głęboka plama,,1,5
+128,+48796317969,42.5,Niebieskie,nike,5372,2024-03-14,2,2024-03-25,"Plamy od krwi
+Klient wygrał bójkę (to nie jego krew haha)",1,,,1,1
+129,+48501819094,41,białe,Ralph Lauren,5217,2024-02-27,2,2024-03-08,,1,,,1,5
+130,+48515028889,1,czarne,New Rock,5113,2024-02-09,6,2024-02-26,Pełna renowacja (buty Fagaty),1,,,1,5
+131,+48602240106,42,białe,Boss,5069,2024-01-31,6,2024-02-23,Renowacja Classic,1,,,1,5
+132,+48609551985,1,białe,Dolce&Gabbana,5171,2024-02-21,3,2024-03-01,"Czyszczenie Luxus Premium
+Klient wrzucił buty do pralki i dlatego ciemne plany na tym bardziej miękkim materiale",1,,,1,5
+133,+48793595215,9,brązowy,Clarks,5261,2024-03-01,6,2024-03-19,"Renowacja,malowanie",1,,,1,5
+134,+48505586134,1,Brązowy,Timberland,5257,2024-03-01,6,2024-03-19,"Renowacja 1 but
+",1,,,1,1
+135,+48696008748,40,białe,Karl Lagerfeld,5253,2024-03-01,2,2024-03-13,,1,,,1,5
+136,+48510273833,1,Beż,Tamaris,5045,2024-01-26,6,2024-02-13,"Online 2355
+2/3
+",1,Potrzeba więcej czasu,,2,8
+137,+48605163601,42.5,białe,puma,5373,2024-03-14,6,2024-04-01,Pełna renowacja :),1,,,1,1
+138,+48608214768,37.5,Biało/Czerwone,nike,5374,2024-03-15,2,2024-03-26,,1,,,1,1
+139,+48535935239,46,czarne,nike,5382,2024-03-16,6,,"Ozonowanie, ",1,,,1,7
+140,+48517914869,38,brązowe,Ugg,5389,2024-03-18,5,2024-03-27,Ugg wash,1,,,1,1
+141,+48510523826,43,kremowe,nike,5380,2024-03-15,2,2024-03-27,Online 2420,1,,2420,1,1
+142,++48535935239,46,czarne,nike,5383,2024-03-16,1,2024-03-25,Ozonowanie,1,,,1,1
+143,+48790489039,45,czarne,nike,5295,2024-03-05,1,2024-03-19,Czyszczenie+unyellowing,1,Głębokie zabrudzenia ,,1,2
+144,+48885153541,1,czarne,LV,5188,2024-02-24,8,2024-03-13,"Renowacja torby LV, wyczyścić zaimpregnować, picuś glancus itp :D ",1,,,1,2
+145,+48692939602,36,białe,Alexander Mcqueen,5280,2024-03-04,8,2024-03-22,"Pełna renowacja 
+Zadrapania na prawym bucie na przodzie 
+Zapietek klientka nie chciała ",1,,,1,1
+146,+606142144,45,braz,.,5286,2024-03-04,1,2024-03-15,+ fleki ,1,,,1,5
+147,+48792747976,42,Kremowy,nike,5262,2024-03-02,2,2024-03-14,,1,Głębokie zabrudzenia ,,1,5
+148,+48884880998,1,białe,valentino,5276,2024-03-02,8,2024-03-20,Renowacja luxus + zapietki ,1,,,1,2
+149,+48730009175,38,Szare,Stuart Weizman ,5182,2024-02-23,1,2024-03-07,Czyszczenie Luxus ,1,Głębokie plamy,,1,5
+150,+48504157489,43,białe,Ralph,5287,2024-03-05,6,2024-03-22,"Renowacja, wyczyścić tez spody i środek obuwia",1,,,1,1
+151,+48531380570,43,Brązowy,Breet sons,5288,2024-03-05,6,2024-03-25,"Renowacja, niektóre czarne „spalenia” są fabryczne, na noskach i do okola materiału",1,,,1,1
+152,+48501444402,38,srebrny,Celebrity,5296,2024-03-05,6,2024-03-22,Reklamacja malowanie prawy but,1,,,1,5
+153,+48606564611,46,czarne,nike,5293,2024-03-05,6,2024-03-26,+zapietek,1,,,1,2
+154,+48606564611,46,czarne,nike,5292,2024-03-05,6,2024-03-26,+zapiętek ,1,,,1,2
+155,+48510273833,38,Beż,Lasocki,5046,2024-01-26,6,2024-02-12,"2355 online 
+3/3",1,,,2,8
+156,+48694442075,44,Kremowe,Adidas,5269,2024-03-02,1,2024-03-19,+unyellowing podeszwy,1,Głębokie zabrudzenia ,,1,2
+157,+48572711916,45,Niebieskie,Adidas,5267,2024-03-02,1,2024-03-13,"Reklamacja,inny kolor. Buty były niebieskie",1,,,1,5
+158,+48721299814,42.5,Camel,nike,5329,2024-03-08,2,,,1,,,1,7
+159,+48721299814,42,camel,nike,5330,2024-03-08,2,2024-03-21,"Wysyłka InPost
+Podkowiński.bartek@gmail.com
+WAW186M
+721 299 814
+1/3",1,,,1,2
+160,+48501772870,1,białe,Converse,5275,2024-03-02,2,2024-03-13,,1,,,1,5
+161,+48500033699,40,białe,nike,5179,2024-02-22,1,2024-03-06,,1,,,1,5
+162,+519372096,44,białe,Newbalance,5290,2024-03-05,1,2024-03-15,,1,,,1,2
+163,+48696070573,37.5,czarne,Converse,5190,2024-02-24,6,2024-03-12,Renowacja i czyszczenie. Odnowa koloru CZARNY! Czyszczenie sznurówek ,1,,,1,5
+164,+48530943094,45,Szary,New Balance,5303,2024-03-06,1,2024-03-20,,1,,,1,2
+165,+48509347693,44,szary,Adidas,5284,2024-03-04,1,2024-03-14,Klient wylatuje 16.03,1,,,1,5
+166,+48575563764,39,Kremowy,NewBalance,5186,2024-02-23,1,2024-03-06,"Online 2384
+",1,,,2,5
+167,+48517914869,44,Ciemny Zielony,New Balance,5241,2024-02-29,2,2024-03-14,,1,Głębokie zabrudzenia ,,1,5
+168,+48573200893,43,Szare,New Balance,5302,2024-03-05,1,2024-03-19,"Online-2400
+WAW96M",1,,2400,1,2
+169,+48604078453,43,Szary,nike,5305,2024-03-06,2,2024-03-19,Szewc klejenie,1,,,1,2
+170,+48603443871,41,białe,mumka,5297,2024-03-05,2,2024-03-15,,1,,,1,5
+171,+48508100786,40,białe,adidas,5384,2024-03-16,1,2024-03-28,"Classic wash + unyellowig 
+Szewc zapietek",1,,,1,1
+172,+48503062767,40,białe,Adidas,5311,2024-03-07,1,2024-03-20,Czyszczenie classic + Unyellowing,1,,,1,1
+173,+48503074052,42,Zielone,nike,5318,2024-03-07,1,2024-03-20,"Lata u szewca 
+",1,,,1,2
+174,+48798096471,45,białe,Adidas,5313,2024-03-07,6,2024-03-25,"Online-2402
+WAW594M",1,,,2,2
+175,+48503074052,38,Zolte,Adidas,5319,2024-03-07,6,2024-03-28,"Klejenie u szewca
+Żółty był bardziej jaskrawy oryginalnie Odnawiamy jak najmocniej kolor :)",1,,,1,2
+176,+48730156129,41.5,szaro czarne,New Balance,5320,2024-03-07,2,2024-03-19,,1,,,1,2
+177,+48784678007,38,Szare,New balance,5314,2024-03-07,1,2024-03-19,,1,,,1,2
+178,+48606790029,40,Brazowe,No name,5315,2024-03-07,2,2024-03-19,,1,,,1,2
+179,+48660107879,6,czarne,Ara,5310,2024-03-06,6,2024-03-25,,1,,,1,2
+180,+48537013013,38,brazowe,No name,5308,2024-03-06,2,2024-03-15,Buty szewca do wyczyszczenia,1,,,1,2
+181,+48727463801,39,Kremowe,Tamaris,5312,2024-03-07,2,2024-03-19,,1,,,1,2
+182,+48730156129,41,czarne,Balenciaga,5321,2024-03-07,3,2024-03-19,,1,,,1,2
+183,+48600927178,38,Kremowe,Arkk,5307,2024-03-06,2,2024-03-19,,1,,,1,2
+184,+48505050454,1,brazowe,Camper,5316,2024-03-07,6,2024-03-27,"Przemalowac na czarno :)
+Maksymalnie na 29 marzec !!!",1,,,1,2
+185,+48500117369,38,białe,MNG,5317,2024-03-07,6,2024-03-27,Malujemy cale na czarno :),1,,,1,2
+186,+48605275263,38,niebieski,Vero Guoio,5326,2024-03-08,6,2024-03-28,"Nowe fleki u szewca 
+Pełna renowacja
+Odnowić kolor ",1,,,1,3
+187,+608625018,37,Camel,Canguro,5161,2024-02-16,6,2024-03-07,"Wyczyścić i odmalować 
+Zapietki szewc ",1,Potrzeba więcej czasu,,1,5
+188,+48721299814,1,Camel,Tom tailor,5331,2024-03-08,6,2024-03-29,"Wysyłka InPost
+Podkowiński.bartek@gmail.com
+WAW186M
+721 299 814
+2/3",1,,,1,2
+189,+48517812943,1,Ciemno zielone,UGG,5322,2024-03-08,5,2024-03-21,,1,,,1,2
+190,+48517812943,40,Bordowe,Martens,5323,2024-03-08,6,2024-03-27,"Pełna renowacja
+Robiona lata u szewca w prawym bucie
+",1,,,1,2
+191,+48501438157,38,czarne,geox,5327,2024-03-08,1,2024-03-21,,1,,,1,2
+192,+48605275263,39,szaro/niebieskie,New balance,5324,2024-03-08,2,2024-03-21,Robione zapietki u szewca,1,,,1,2
+193,+48697780158,38,białe,Converse,5328,2024-03-08,1,2024-03-21,"Maly but, można trochę odczyścić w środku. +Klejenie",1,,,1,2
+194,+48607885150,40,Kremowy,Birkenstock,5366,2024-03-13,4,2024-03-25,,1,,,1,2
+195,+48501011284,43,Zielone,polo,5337,2024-03-09,1,2024-03-21,,1,,,1,2
+196,+48602512244,45,Szare,nike,5333,2024-03-08,2,2024-03-21,,1,,,1,2
+197,+48519529239,44,białe,New Balance,5298,2024-03-05,2,2024-03-19,"Klejenie u szewca 
+Zapietek klient nie chciał 
+Część zabrudzeń na czubach od polewy czekoladowej 
+",1,,,1,2
+198,+48692459500,37.5,białe,Dolce Gabbana,5342,2024-03-11,8,2024-04-05,"U szewca zapietki,klejenie i szycie
+Stała klientka 
+Postarać się zrobić idealnie :)",1,,,1,2
+199,+48798417190,39,białe,nike,5336,2024-03-09,6,2024-03-28,"Online 2404
+2/2",1,,,2,2
+200,+48609993942,37,czarne,ugg,5338,2024-03-09,5,2024-03-21,,1,,,1,2
+201,+48721299814,42.5,czarne,nike,5332,2024-03-08,2,2024-03-21,"Wysyłka InPost
+Podkowiński.bartek@gmail.com
+WAW186M
+721 299 814
+3/3",1,,,1,2
+202,+48574307610,43,białe,Arigato,5341,2024-03-11,1,2024-03-21,,1,,,1,2
+203,+48693104515,36,Szary,New balance,5340,2024-03-11,2,2024-03-21,,1,,,1,2
+204,+48510020249,39,camel,vero,5339,2024-03-09,6,2024-03-29,"Renowacja, wkładka w zestawie
+ZROBIĆ DO KOŃCA MARCA, KLIENTKA WYJEZDZA",1,,,1,2
+205,+48785746522,1,białe,Converse,5272,2024-03-02,1,2024-03-19,,1,Głębokie zabrudzenia ,,1,5
+206,+48730549559,42,czarne,Hugo Boss,5385,2024-03-16,1,2024-03-27,"Rozlany olejek zapachowy
++ szewc łaty i szycie",1,,,1,1
+207,+48575123190,39,czarne,Marc Jacobs,5390,2024-03-18,6,2024-04-05,"Naprawa skóry
++Szewc fleki i skrócenie paska",1,,,1,1
+208,+48793401511,39,Kremowe,NB,5346,2024-03-11,1,2024-03-20,Pofarbowane od jeansów ,1,,,1,2
+209,++48793973138,37,białe,Date,5351,2024-03-11,1,2024-03-22,"+szewc klejenie
+Online 2410",1,,,1,2
+210,+48663033162,38,brąz,Gant,5354,2024-03-12,1,2024-03-22,Plama od masła ,1,,,1,2
+211,+48601619749,40,Szare,nike,5353,2024-03-12,1,2024-03-22,,1,,,1,2
+212,+48660529466,44,białe,Hoff,5345,2024-03-11,1,2024-03-20,,1,,,1,2
+213,+48793401511,41,kremowe,Adidas,5347,2024-03-11,2,2024-03-20,,1,,,1,2
+214,+48571071446,40,białe,puma,5350,2024-03-11,2,2024-03-20,Premium wash,1,,,1,2
+215,+48609341672,42.5,białe,nike,5355,2024-03-12,6,2024-03-25,"+szewc zapietki 
+Łyżwa Nike na  niebiesko
+Materiał przy napisie Nike Air najlepiej na biało 
+Jak się nie da to też niebieski
+Link na grupie WhatsApp jest 
+",1,,,1,1
+216,+48517914869,37.5,Biało/niebieskie,Dior,5244,2024-02-29,3,2024-03-14,Czyszczenie LUXUS premium,1,Głębokie zabrudzenia ,,1,5
+217,+48515145886,41,białe,nike,5348,2024-03-11,2,2024-03-20,Online 2412,1,,,1,2
+218,+48793973138,37,białe,Date,5352,2024-03-11,1,2024-03-22,"+szewc łata + klejenie
+Online 2410
+",1,,2410,1,2
+219,+48660529466,43.5,niebieskie,New balance ,5344,2024-03-11,1,2024-03-22,+szewc klejenie,1,Szewc,,1,2
+220,+48519372096,38,kremowy,nike,5289,2024-03-05,2,2024-03-12,Express+ zapietki premium wash,1,,,1,5
+221,+48795226255,42,Brązowy,Clarks,5391,2024-03-18,1,2024-03-28,,1,,,1,1
+222,+48537359225,43,białe,Converse,5089,2024-02-02,1,2024-02-12,"Czubki butów szczegolnie
+Online 2361",1,,2361,2,8
+223,+48796841223,41,białe,nike,5110,2024-02-08,2,2024-02-21,Online 2343,1,,,2,8
+224,+48880177350,43,Bordowo/Biale,New Balance,5128,2024-02-12,6,2024-02-27,"Plamy oleju pod siatką na przodzie butów 
+Zwariowała aplikacja tylko czyszczenie Classic!!!",1,Głębokie zabrudzenia ,,1,5
+225,+48668155655,38,białe,UQ,5358,2024-03-13,2,2024-03-22,,1,,,1,2
+226,+48721142487,44,szary,adidas,5386,2024-03-16,6,2024-03-27,Premium wash,1,,,1,1
+227,+48795226255,43,brązowy,cat,5392,2024-03-18,1,2024-03-28,,1,,,1,1
+228,+48509347693,44,białe,On,5283,2024-03-04,2,2024-03-15,"+zapietki
+Reklamacja, na lewym bucie ubrudzenie jakby tuszem od długopisu ",1,Szewc,,1,2
+229,+48795799499,1,Biało/szare,Burch,5300,2024-03-05,2,2024-03-15,,1,,,1,5
+230,+48501819094,37.5,białe,nike,5218,2024-02-27,2,2024-03-08,,1,,,1,5
+231,+48535153321,39,Rozowe,Adidas,5125,2024-02-10,6,2024-02-27,Klientce zależy na odzyskaniu oryginalnego koloru,1,,,1,5
+232,+48798670636,39,czarne,Timberland,5254,2024-03-01,6,2024-03-18,,1,,,1,5
+233,+48504296867,39,Szary,Emporo Armani ,5334,2024-03-09,6,,Online 2406 ,1,,2406,1,2
