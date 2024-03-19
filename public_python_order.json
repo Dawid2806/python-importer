@@ -1,0 +1,59 @@
+[
+{
+    "type": "header",
+    "version": "4.9.5",
+    "comment": "Export to JSON plugin for PHPMyAdmin"
+},
+{
+    "type": "database",
+    "name": "serwer240551_sneakerwash"
+},
+{
+    "type": "table",
+    "name": "public_python_order",
+    "database": "serwer240551_sneakerwash",
+    "data": 
+[
+{
+    "id": "1",
+    "phone": "015201494800",
+    "size": "44",
+    "color": "Białe",
+    "brand": "Nike",
+    "orderNumber": "5000",
+    "created_at": "2024-01-01",
+    "comment": null,
+    "shipping_number": null,
+    "due_date": "2024-03-09",
+    "reasonForDelay": null,
+    "additional_service_id": "2",
+    "order_status_id": "7",
+    "order_type_id": "1",
+    "service_id": "4",
+    "shoemaker_id": null,
+    "flag": "1"
+},
+{
+    "id": "4",
+    "phone": "231321",
+    "size": "443",
+    "color": "Białe2222",
+    "brand": "Puma131231",
+    "orderNumber": "5001",
+    "created_at": "2024-01-04",
+    "comment": "brak",
+    "shipping_number": "braj",
+    "due_date": "2024-03-10",
+    "reasonForDelay": null,
+    "additional_service_id": "1",
+    "order_status_id": "8",
+    "order_type_id": "2",
+    "service_id": "7",
+    "shoemaker_id": null,
+    "flag": "0"
+}
+
+]
+
+}
+]

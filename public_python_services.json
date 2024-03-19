@@ -1,0 +1,60 @@
+[
+{
+    "type": "header",
+    "version": "4.9.5",
+    "comment": "Export to JSON plugin for PHPMyAdmin"
+},
+{
+    "type": "database",
+    "name": "serwer240551_sneakerwash"
+},
+{
+    "type": "table",
+    "name": "public_python_services",
+    "database": "serwer240551_sneakerwash",
+    "data": 
+[
+{
+    "id": "1",
+    "name": "Czyszczenie Classic",
+    "service_type": "cleaning"
+},
+{
+    "id": "2",
+    "name": "Czyszczenie Premium ",
+    "service_type": "cleaning"
+},
+{
+    "id": "3",
+    "name": "Czyszczenie Luxus ",
+    "service_type": "cleaning"
+},
+{
+    "id": "4",
+    "name": "Czyszczenie Birkenstock ",
+    "service_type": "cleaning"
+},
+{
+    "id": "5",
+    "name": "Czyszczenie Emu \/ UGG ",
+    "service_type": "cleaning"
+},
+{
+    "id": "6",
+    "name": "Renowacja Obuwia ",
+    "service_type": "renovation"
+},
+{
+    "id": "7",
+    "name": "Renowacja Obuwia Mini ",
+    "service_type": "renovation"
+},
+{
+    "id": "8",
+    "name": "Renowacja Obuwia Luxus ",
+    "service_type": "renovation"
+}
+]
+
+}
+]
